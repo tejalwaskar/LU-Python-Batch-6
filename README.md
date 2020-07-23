@@ -1,1 +1,1 @@
-# LU-Python-Batch-6-Day-2-Assignement-
+# LU-Python-Batch-6
